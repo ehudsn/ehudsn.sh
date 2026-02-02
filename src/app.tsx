@@ -83,9 +83,9 @@ export function App() {
           </li>
         </ul>
         <p className="paragraph">
-          I believe LLMs are overrated but still a powerful preview of what's
-          coming. Our relationship with technology is going to shift
-          dramatically over the next five years.
+          LLMs show us what's possible, even if we're not at AGI yet. We're
+          getting there faster than expected, and our relationship with
+          technology is going to shift dramatically over the next five years.
         </p>
         <p className="paragraph">
           I've been married for 10 years and live in Monterrey, Mexico.
