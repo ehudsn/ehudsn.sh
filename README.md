@@ -1,4 +1,4 @@
-# bun-react-template
+# ehudsn.sh
 
 To install dependencies:
 
